@@ -30,10 +30,6 @@ The dashboard's data model integrates:
 - **Property Performance:** Detailed metrics for each property.
 - **Realisation and ADR by Platform:** Bar chart for platform performance.
 
-## Visualization Tools
-Developed with advanced data visualization tools to enhance clarity and interactivity.
 
-## Impact
-The AtliQ Hospitality Dashboard has improved operational efficiency, customer satisfaction, and revenue growth for the AtliQ group.
 
 
